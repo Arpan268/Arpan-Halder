@@ -7,8 +7,8 @@ export default function Projects() {
     const projects = [
         {
             title: "Solar Flux Anomaly Tracker (SFAT)",
-            description: "A full-stack solar-weather platform for real-time telemetry monitoring and solar-flare detection. Features include 24-hour relative flare-risk estimation with 90.7% ML accuracy, robust RBAC, and event-driven processing.",
-            tags: ["React", "Node.js", "Machine Learning", "RBAC"],
+            description: "A multi-tenant B2B SaaS platform for real-time space-weather intelligence, combining telemetry monitoring, anomaly detection, 24-hour ML flare-risk forecasting, role-based intelligence, AI analysis, and event-driven operational response.",
+            tags: ["React", "Node.js", "ML/AI", "Multi-Tenant", "RBAC"],
             image: sfat_landing_page,
             github: "https://github.com/Arpan268/Solar-Flux-Anomaly-Tracker-SFAT-",
             demo: "https://solar-flux-anomaly-tracker-sfat.vercel.app/"
